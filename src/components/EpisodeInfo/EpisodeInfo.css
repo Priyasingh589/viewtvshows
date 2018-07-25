@@ -1,0 +1,49 @@
+.episode-container .tvshow-name {
+    font-size: 25px;
+    font-weight: normal;
+    color: #fff;
+    margin-top: -100px;
+}
+
+.episode-count {
+    color: #fff;
+    font-size: 13px;
+}
+
+.episode-details {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-top: none;
+    color: black;
+    margin-top: 37px;
+}
+.episode-heading {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.season-sequence {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.episode-sequence {
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #ccc;
+}
+span.episode-name {
+    margin-left: 15px;
+}
+span.play-episode {
+    float: right;
+    cursor: pointer;
+}
+.season-values {
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 5px;
+    color:#000;
+}
+.season-values:hover ,.season-values:active , .season-values:focus ,.active-season  {
+    text-decoration: none;
+    color: #951b81;
+}

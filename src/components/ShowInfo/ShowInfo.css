@@ -1,0 +1,47 @@
+.poster-img{
+    margin-top: -100px;
+}
+.poster-img > img {
+    width: 100%;
+    height: 100%;
+    max-width: 200px;
+    max-height: 300px;
+}
+.action-button-container{
+    margin-top: 10px;
+}
+.action-button-container button{
+    width: 100%;
+    text-align: left;
+}
+.tvshow-name {
+    font-weight: bold;
+    color: #999;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.showinfo-container{
+    border: 1px solid #ccc;
+}
+.tvshow-field-value > div{
+    padding: 0;
+}
+.tvshow-label{
+    font-weight: bold;
+    font-size: 11px;
+}
+.tvshow-value{
+    font-size: 10px;
+}
+.show-desc{
+    font-size: 10px;
+    margin: 10px 0;
+}
+.clear{
+    clear: both;
+}
+.genre-details{
+    color: #951b81;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
